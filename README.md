@@ -1,6 +1,6 @@
 # Titanic Survival Prediction using XGBoost Classifier
 
-This notebook contains an end-to-end machine learning pipeline to predict passenger survival on the Titanic using the XGBoost Classifier. It involves data preprocessing, model training with hyperparameter optimization, and final predictions.
+This repository contains an end-to-end machine learning pipeline to predict passenger survival on the Titanic using the XGBoost Classifier. It involves data preprocessing, model training with hyperparameter optimization, and final predictions.
 
 ## Features
 - Data preprocessing with imputation, scaling, and one-hot encoding.
