@@ -30,11 +30,3 @@ Christina Joslin
 ## Acknowledgements
 - Data provided by the Titanic competition on [Kaggle](https://www.kaggle.com/competitions/titanic/data)
 - Special thanks to the open-source community for contributing the libraries used in this project.
-
-@misc{titanic,
-    author = {Will Cukierski},
-    title = {Titanic - Machine Learning from Disaster},
-    year = {2012},
-    howpublished = {\url{https://kaggle.com/competitions/titanic}},
-    note = {Kaggle}
-}
